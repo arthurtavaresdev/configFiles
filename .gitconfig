@@ -1,0 +1,7 @@
+[user]
+	name = Arthur Tavares
+	email = arthurabreu00@gmail.com
+[core]
+	fileMode = false
+[push]
+	autoSetupRemote = true
